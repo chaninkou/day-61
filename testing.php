@@ -2,7 +2,7 @@
 <html>
 <body>
 <?php
-echo "<h2>PHP is Fun!</>";
+echo "<p>PHP is Fun!</p>";
 ?>
 </body>
 </html>
